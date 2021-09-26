@@ -1,12 +1,12 @@
 # Getting Started with Create React App
-Site Name : Vote Your Star 
+Site Name : Vote Your Star \
 Live Site : [Create React App](https://vote-for-concert.netlify.app/p).
 
 ## Purpose of this website
 
-•This website made for voting.
-•Fans will vote their favourite star for upcoming gala concert.
-•Fans get 1M Referral Currency.
+•This website made for voting. \
+•Fans will vote their favourite star for upcoming gala concert.\
+•Fans get 1M Referral Currency.\
 •This currency will spent for voting. They Choose star with their demanding amount.Demanding amount mentioned in star profile. 
 
 
