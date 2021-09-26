@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 Site Name : Vote Your Star \
-Live Site : [Create React App](https://vote-for-concert.netlify.app/p).
+Live Site : [Vote For Concert](https://vote-for-concert.netlify.app/).
 
 ## Purpose of this website
 
