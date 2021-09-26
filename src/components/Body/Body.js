@@ -21,7 +21,7 @@ const Body = () => {
 
 
     return (
-        <div className="row">
+        <div className="row body">
             <div className="col-md-9 artist">
                
                 {
@@ -33,7 +33,7 @@ const Body = () => {
                         )
                 }
             </div>
-            <div className="col-md-3">
+            <div className="col-md-3 vote">
                <Vote vote={vote}></Vote>
             </div>
         </div>

@@ -3,6 +3,7 @@ import React from 'react';
 const Vote = (props) => {
    
     const {vote} = props;
+    console.log(props.vote.length)
     let total = 0;
     let name = [];
     for (const person of vote) {
@@ -17,12 +18,14 @@ const Vote = (props) => {
 
     }
     return (
-        <div>
-            <h2 className="mt-3">Vote Summary</h2>
+        <div className="vote">
+            <h2 className="font">Vote Summary </h2>       
+            <h3 > <span className="font">Vote Count </span> {vote.length}</h3>       
             <hr />
 
-            <h5>Total Curriency Spent : {total}</h5>
-            <h5>Voted Star : {name}  </h5>  
+           
+            <h5 > <span className="font">Total Curriency Spent :</span> $ {total}</h5>
+            <h5 > <span className="font"> Voted Star :  </span> {name}  </h5>  
             
 
         </div>
