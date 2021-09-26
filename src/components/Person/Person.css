@@ -1,0 +1,13 @@
+/* .person{
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+} */
+.artist{
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+}
+.image{
+    height: 300px;
+    width: 300px;
+    margin: 5px;
+}

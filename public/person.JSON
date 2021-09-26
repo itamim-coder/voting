@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Robert Peter Williams",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Robbie_Williams.jpg",
+      "occupation": "English singer",
+      "instruments": "Vocals-guitar",
+      "maxDuration": "15 Minute",
+      "showCost": 200000
+    },
+    {
+      "id": 2,
+      "name": "Aida Garifullina",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Aida_Garifullina.jpg/220px-Aida_Garifullina.jpg",
+      "occupation": " Operatic soprano",
+      "instruments": "Vocals",
+      "maxDuration": "20 Minute",
+      "showCost": 100000
+    },
+    {
+      "id": 3,
+      "name": "Jennifer Lopez",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TIFF_2019_jlo_%281_of_1%29-2_%2848696671561%29_%28cropped%29.jpg/220px-TIFF_2019_jlo_%281_of_1%29-2_%2848696671561%29_%28cropped%29.jpg",
+      "occupation": "Actress, singer ,dancer",
+      "instruments": "Vocals",
+      "maxDuration": "15 Minute",
+      "showCost": 250000
+    },
+    {
+      "id": 4,
+      "name": "Pitbull",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Arena_Corinthians_Opening_%28cropped-Pitbull%29.jpg/220px-Arena_Corinthians_Opening_%28cropped-Pitbull%29.jpg",
+      "occupation": "Rapper and singer",
+      "instruments": "hip-hop",
+      "maxDuration": "20 Minute",
+      "showCost": 200000
+    },
+    {
+      "id": 5,
+      "name": "Claudia Leitte",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Claudia_Leitte_no_The_Voice_Brasil_2012.jpg/220px-Claudia_Leitte_no_The_Voice_Brasil_2012.jpg",
+      "occupation": "singer",
+      "instruments": "Latin Pop",
+      "maxDuration": "15 Minute",
+      "showCost": 150000
+    },
+    {
+      "id": 6,
+      "name": "Katy Perry",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Katy_Perry_2019_%28cropped%29.jpg/220px-Katy_Perry_2019_%28cropped%29.jpg",
+      "occupation": "Singer actress",
+      "instruments": "rock",
+      "maxDuration": "20 Minute",
+      "showCost": 300000
+    },
+    {
+      "id": 7,
+      "name": "Ariana Grande",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ariana_Grande_Grammys_Red_Carpet_2020.png/220px-Ariana_Grande_Grammys_Red_Carpet_2020.png",
+      "occupation": "Singer-actress",
+      "instruments": "pop",
+      "maxDuration": "20 Minute",
+      "showCost": 150000
+    },
+    {
+      "id": 8,
+      "name": "Eminem",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Eminem_-_Concert_for_Valor_in_Washington%2C_D.C._Nov._11%2C_2014_%282%29_%28Cropped%29.jpg/220px-Eminem_-_Concert_for_Valor_in_Washington%2C_D.C._Nov._11%2C_2014_%282%29_%28Cropped%29.jpg",
+      "occupation": "Rapper",
+      "instruments": "Hip-Hop",
+      "maxDuration": "15 Minute",
+      "showCost": 250000
+    },
+    {
+      "id": 9,
+      "name": "Halsey",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Halsey_2019_by_Glenn_Francis_%28cropped%29_2.jpg/220px-Halsey_2019_by_Glenn_Francis_%28cropped%29_2.jpg",
+      "occupation": "Singer",
+      "instruments": "Electro-pop",
+      "maxDuration": "15 Minute",
+      "showCost": 20000
+    }
+  ]
